@@ -213,3 +213,6 @@ header.sticky{
     background: var(--main-color);
     color: var(--bg-color);
 }
+.hi{
+    color: var(--text-color);
+   }
